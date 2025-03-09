@@ -73,6 +73,7 @@
 
         align-items: center;
         justify-content: flex-start;
+
     }
 
     div.campo > label {
@@ -96,6 +97,8 @@
         border-radius: 9px;
         padding: 3px;
         transform: translateY(-10px);
+
+     
     }
 
     div.campo > input:focus-within {
